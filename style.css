@@ -68,7 +68,7 @@ html,body{
 	max-width: 100%;
 }
 footer{ 
-	height: 60px;
+	height: auto;
 	color: #ffffff;
   }
 .container{
